@@ -1,0 +1,16 @@
+main_page:
+    moving bg
+    music
+
+settings:
+    volume 
+    on/off
+    difficulty?
+
+game:
+    two bars
+    ball
+    score in middle
+
+
+https://www.youtube.com/watch?v=JeznW_7DlB0&ab_channel=TechWithTim 
